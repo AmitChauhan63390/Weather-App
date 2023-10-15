@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=patiala&appid=4b97ada90ad097bd25e8371acda4cc60&unit=matrics
